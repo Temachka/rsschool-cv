@@ -1,0 +1,17 @@
+* {
+    font-family: sans-serif;
+}
+
+.card {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    margin: auto;
+    background-color: salmon;
+    border-radius: 20px;
+}
+
+.card-info {
+    margin: auto;
+}
